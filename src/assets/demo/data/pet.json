@@ -1,0 +1,27 @@
+{
+	"data":
+    [
+		{
+            "id": 1,
+            "name": "Billy",
+            "gender": "Masculino",
+            "breed": "Poodle",
+            "color": "Marrom"
+        },
+        {
+            "id": 2,
+            "name": "Maggie",
+            "gender": "Feminino",
+            "breed": "SDR - Fiapo de manga",
+            "color": "Marrom"
+        },
+        {
+            "id": 3,
+            "name": "Billo",
+            "gender": "Masculino",
+            "breed": "Poodle",
+            "color": "Marrom"
+        }
+    ]
+}
+
