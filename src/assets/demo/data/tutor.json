@@ -1,0 +1,26 @@
+{
+	"data":
+    [
+		{
+            "id": 1,
+            "name": "Jailton",
+            "gender": "Masculino",
+            "cpf": "04578548506",
+            "phone": "81981927878"
+        },
+       {
+            "id": 2,
+            "name": "Marcos",
+            "gender": "Masculino",
+            "cpf": "03526448502",
+            "phone": "81981925218"
+        },{
+            "id": 3,
+            "name": "Isadora",
+            "gender": "Feminino",
+            "cpf": "05448632507",
+            "phone": "81981234878"
+        }
+    ]
+}
+
