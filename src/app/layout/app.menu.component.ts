@@ -56,19 +56,19 @@ export class AppMenuComponent implements OnInit {
                 ]
             },
              {
-                label: 'Pets',
-                items: [
-                    { label: 'Pets', icon: 'pi pi-fw pi-heart', routerLink: ['/main/pet'] },
+    label: 'Pets',
+    items: [
 
-                ]
-            },
-            {
-                label: 'Tutor',
-                items: [
-                    { label: 'Tutor', icon: 'pi pi-fw pi-user', routerLink: ['/main/tutor'] },
-
-                ]
-            },
+        { label: 'Pets', icon: 'fas fa-fw fa-paw', routerLink: ['/main/pet'] }
+    ]
+},
+{
+    label: 'Tutor',
+    items: [
+        
+        { label: 'Tutor', icon: 'fas fa-fw fa-user', routerLink: ['/main/tutor'] }
+    ]
+},
             {
                 label: 'Pages',
                 icon: 'pi pi-fw pi-briefcase',
